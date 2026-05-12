@@ -1,0 +1,3 @@
+The specification of copper standoffs for supporting the display on the development board: M3×23+4mm
+SMT nut standoff specification for 4G/5G module on the development board: M2.5, SMT nut standoff, brass material, M2.5×4.0×4.3+2.9×2.2mm
+SMT nut standoff specification for core board mounting fixing holes: M2, SMT nut standoff, copper-nickel alloy material, M2×4×3+3×1.5mm

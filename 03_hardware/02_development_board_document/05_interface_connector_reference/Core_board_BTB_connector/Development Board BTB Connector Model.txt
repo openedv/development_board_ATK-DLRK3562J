@@ -1,0 +1,3 @@
+
+Core Board Male Connector Model: AXK6A2337YG-120P - Male Connector with Standoffs
+Baseboard Female Connector Model: AXK5A2137YG-120P - Female Connector with Standoffs
